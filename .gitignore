@@ -1,3 +1,4 @@
 *.pyc
 .vagrant
 client_secrets.json
+fb_client_secrets.json
