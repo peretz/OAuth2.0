@@ -50,10 +50,10 @@ class MenuItem(Base):
        """Return object data in easily serializeable format"""
        return {
            'name'         : self.name,
-           'description'         : self.description,
-           'id'         : self.id,
-           'price'         : self.price,
-           'course'         : self.course,
+           'description'  : self.description,
+           'id'           : self.id,
+           'price'        : self.price,
+           'course'       : self.course,
        }
 
 
