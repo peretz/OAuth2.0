@@ -28,13 +28,13 @@ There are four files:
 3. Run lotsofmenuswithuser.py to populate the database
 4. Add your Google Plus's Client ID to login.html, and download the client_secrets.json file linked to your account.
 5. Add your Facebook's Application ID and latest API version to your login.html, and create a JSON file called fb_client_secrets.json with the following fields
-
 {
     "web": {
         "app_id": {your-facebook-app-id},
         "app_secret": {your-facebook-app-secret}
     }
 }        
+
 6. Run project.py and navigate to localhost:5000 in your browser
 
 If you ran successfully the previous steps, you should be able to:
