@@ -34,7 +34,6 @@ There are four files:
         "app_secret": {your-facebook-app-secret}
     }
 }        
-
 6. Run project.py and navigate to localhost:5000 in your browser
 
 If you ran successfully the previous steps, you should be able to:
