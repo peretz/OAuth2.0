@@ -39,6 +39,6 @@ There are four files:
 If you ran successfully the previous steps, you should be able to:
 * See a complete list of all restaurants.
 * Access the menu for a specific restaurant.
-* Login in to the website using Google Plus or Facebook as OAutho provider.
+* Login in to the website using Google Plus or Facebook as OAuth provider.
 * Create, edit and delete a restaurant when the correct user is logged in.
 * Create, edit and delete items in the menu when the correct user is logged in.
